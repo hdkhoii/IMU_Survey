@@ -1,0 +1,36 @@
+	Z HƯỚNG LÊN
+Mean Ax = 0.08992 g
+Mean Ay = -0.03363 g
+Mean Az = 1.03752 g
+
+	Z HƯỚNG XUỐNG
+Mean Ax = -0.06339 g
+Mean Ay = 0.04332 g
+Mean Az = -0.97835 g
+
+=> offset_az = 0.029585
+
+	X HƯỚNG LÊN
+Mean Ax = 1.03745 g
+Mean Ay = -0.02505 g
+Mean Az = -0.02229 g
+
+	X HƯỚNG XUỐNG
+Mean Ax = -0.96730 g
+Mean Ay = -0.02428 g
+Mean Az = 0.11267 g
+	
+=> offset_ax = 0.035075
+
+	Y HƯỚNG LÊN
+Mean Ax = 0.03809 g
+Mean Ay = 0.97886 g
+Mean Az = 0.05588 g
+
+	Y HƯỚNG XUỐNG
+Mean Ax = 0.04230 g
+Mean Ay = -1.02765 g
+Mean Az = 0.02285 g
+
+=> offset_ay = 0.24395
+
